@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-webfolio/static/css/main.d11a1fd5.css",
+    "main.js": "/react-webfolio/static/js/main.67fecb4e.js",
+    "static/js/787.0c33adce.chunk.js": "/react-webfolio/static/js/787.0c33adce.chunk.js",
+    "static/media/project 3.png": "/react-webfolio/static/media/project 3.d817b87c5a5b0536921c.png",
+    "static/media/profilepic.jpg": "/react-webfolio/static/media/profilepic.faf7147acc3423d61e58.jpg",
+    "static/media/project 2.png": "/react-webfolio/static/media/project 2.8291f9d5b864c1aae89b.png",
+    "static/media/about.png": "/react-webfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/project 1.png": "/react-webfolio/static/media/project 1.9086db572b85bc1f5f0a.png",
+    "static/media/home-bg.webp": "/react-webfolio/static/media/home-bg.28fff0e30c0d3f47e8d6.webp",
+    "static/media/pre.svg": "/react-webfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/react-webfolio/index.html",
+    "main.d11a1fd5.css.map": "/react-webfolio/static/css/main.d11a1fd5.css.map",
+    "main.67fecb4e.js.map": "/react-webfolio/static/js/main.67fecb4e.js.map",
+    "787.0c33adce.chunk.js.map": "/react-webfolio/static/js/787.0c33adce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d11a1fd5.css",
+    "static/js/main.67fecb4e.js"
+  ]
+}
