@@ -144,9 +144,7 @@ const Header = () => {
               <motion.div
               initial={{ opacity: 0,y:"-100%"}}
               animate={{ opacity: 1, y:"0%"}}
-              transition={{ duration: 2 }}
-              >
-                
+              transition={{ duration: 2 }} >
                 <a href="/#home1" onClick={handleClick("home")} class={"navLink"}>Home</a>
               </motion.div>
 
