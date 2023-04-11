@@ -15,8 +15,8 @@ const projects = [
   {
     title: "React Portfolio",
     getImageSrc: () => require("../images/project 2.png"),
-    liveLink: "",
-    ghLink: "",
+    liveLink: "https://banti067.github.io/react-webfolio/",
+    ghLink: "https://github.com/Banti067/react-webfolio",
   },
   {
     title: "Movie Search Site",
