@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+live view off website[view](https://banti067.github.io/react-webfolio/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
