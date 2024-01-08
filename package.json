@@ -36,6 +36,7 @@
     "yup": "^1.0.2"
   },
   "scripts": {
+    "dev": "react dev -p 3075",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
